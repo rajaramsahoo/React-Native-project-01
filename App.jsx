@@ -27,6 +27,7 @@ import FlexBox from './components/FlexBox';
 import ElevatedCard from './components/ElevatedCard';
 import FancyCard from './components/FancyCard';
 import ActionCard from './components/ActionCard';
+import ContactList from './components/ContactList';
 
 
 function App() {
@@ -40,6 +41,7 @@ function App() {
         <ElevatedCard />
         <FancyCard/>
         <ActionCard/>
+        <ContactList/>
       </ScrollView>
 
     </SafeAreaView>
